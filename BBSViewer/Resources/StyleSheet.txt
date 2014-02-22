@@ -1,0 +1,1 @@
+body { font-family: "MS PGothic"; font-size: 12pt } 

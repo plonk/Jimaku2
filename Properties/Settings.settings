@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Jimaku2.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="JimakuColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="WindowLocation" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">-1, -1</Value>
+    </Setting>
+    <Setting Name="WindowSize" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">-1, -1</Value>
+    </Setting>
+    <Setting Name="ProgramName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Jimaku2</Value>
+    </Setting>
+    <Setting Name="LastThread" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://jbbs.shitaraba.net/bbs/read.cgi/game/48538/1367832583</Value>
+    </Setting>
+    <Setting Name="MinimumDisplayTime" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">10000</Value>
+    </Setting>
+    <Setting Name="LastResNumber" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="MaximumDisplayTime" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">10000</Value>
+    </Setting>
+    <Setting Name="IncomingSoundEffect" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Tools\nicocast108\newnico.wav</Value>
+    </Setting>
+    <Setting Name="StayOnTop" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="JimakuFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Microsoft Sans Serif, 24pt, style=Bold</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
