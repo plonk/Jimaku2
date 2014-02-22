@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2012 for Windows Desktop
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jimaku2", "Jimaku2.csproj", "{2FC70D22-E758-42DF-B934-8395004A2BD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BBSViewer", "..\BBSViewer\BBSViewer.csproj", "{335FFE45-823A-4D28-8F2C-2B48ED30CD6B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BBSViewer", "BBSViewer\BBSViewer.csproj", "{335FFE45-823A-4D28-8F2C-2B48ED30CD6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BbsConsole", "..\BbsConsole\BbsConsole.csproj", "{CB0F32C5-871F-4038-9A05-1D75362E17AC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BbsConsole", "BbsConsole\BbsConsole.csproj", "{CB0F32C5-871F-4038-9A05-1D75362E17AC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BbsLib", "BbsLib\BbsLib.csproj", "{E9F8B434-7726-4F8C-A467-182FF2F94B26}"
 EndProject

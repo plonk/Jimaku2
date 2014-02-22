@@ -1,0 +1,9 @@
+obj/
+bin/
+BBSViewer/bin/
+BBSViewer/obj/
+BbsConsole/bin/
+BbsConsole/obj/
+BbsLib/bin/
+BbsLib/obj/
+
