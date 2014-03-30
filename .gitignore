@@ -6,4 +6,4 @@ BbsConsole/bin/
 BbsConsole/obj/
 BbsLib/bin/
 BbsLib/obj/
-
+*.v11.suo

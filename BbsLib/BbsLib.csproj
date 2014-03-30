@@ -45,6 +45,8 @@
     <Compile Include="Bbs\BintanThread.cs" />
     <Compile Include="Bbs\BoardGetter.cs" />
     <Compile Include="Bbs\BoardSettings.cs" />
+    <Compile Include="Bbs\GenericNichanBoard.cs" />
+    <Compile Include="Bbs\GenericNichanThread.cs" />
     <Compile Include="Bbs\ThreadProxy.cs">
       <SubType>Code</SubType>
     </Compile>

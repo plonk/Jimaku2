@@ -107,7 +107,7 @@
     <None Include="Resources\StyleSheet.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Jimaku2\BbsLib\BbsLib.csproj">
+    <ProjectReference Include="..\BbsLib\BbsLib.csproj">
       <Project>{e9f8b434-7726-4f8c-a467-182ff2f94b26}</Project>
       <Name>BbsLib</Name>
     </ProjectReference>

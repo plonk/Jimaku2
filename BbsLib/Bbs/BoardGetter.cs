@@ -85,6 +85,10 @@ namespace Yoteichi.Bbs
             {
                 board = new BintanBoard(uri);
             }
+            else if (GenericNichanBoard.IsBoardUri(uri))
+            {
+                board = new GenericNichanBoard(uri);
+            }
             else
                 throw new ApplicationException("URLは対応した掲示板ではありません");
 
@@ -108,6 +112,10 @@ namespace Yoteichi.Bbs
             else if (BintanBoard.IsBoardUri(uri))
             {
                 id = BintanBoard.GetThreadId(uri);
+            }
+            else if (GenericNichanBoard.IsBoardUri(uri))
+            {
+                id = GenericNichanBoard.GetThreadId(uri);
             }
             else
                 throw new ApplicationException("URLは対応した掲示板のスレッドではありません");
